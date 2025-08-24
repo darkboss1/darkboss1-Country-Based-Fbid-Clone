@@ -1,7 +1,5 @@
 # darkboss1-Country-Based-Fbid-Clone
 
-# darkboss1-Country-Based Fbid-Clone
-
 darkboss1-Country-Based Fbid-Clone is a powerful Termux-based script for cloning Facebook accounts using advanced and updated methods.  
 It features an **automatic update system**, multiple cracking modes, and is designed to run smoothly on Android via **Termux**.
 
@@ -9,18 +7,18 @@ It features an **automatic update system**, multiple cracking modes, and is desi
 
 ---
 
-## 📱 Termux Installation Guide
+##  Termux Installation Guide
 
-### 🧰 Requirements
+###  Requirements
 
-- ✅ Termux (from F-Droid or GitHub)
-- ✅ Internet connection
-- ✅ Android 7+ recommended
-- ✅ `/sdcard/darkboss1-Country-Based Fbid-Clone` directory (used by the tool)
+-  Termux (from F-Droid or GitHub)
+-  Internet connection
+-  Android 7+ recommended
+-  `/sdcard/darkboss1-Country-Based Fbid-Clone` directory (used by the tool)
 
 ---
 
-### ⚙️ Installation Steps
+###  Installation Steps
 
 ```bash
 pkg update && pkg upgrade -y
