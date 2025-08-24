@@ -10,7 +10,7 @@ def clear_screen():
     os.system("clear" if os.name == "posix" else "cls")
 
 def matrix_intro(lines=18, delay=0.03):
-    chars = "⣿⠿⣾⣷⡿⢿⣿⡇⠁⠂⠒⠛⠓⠒⠂⠄⠅⠆⠤⠶⠿"
+    chars = ""
     for _ in range(lines):
         line = "".join(random.choice(chars) for _ in range(70))
         print(f"\033[1;32m{line}\033[0m")
